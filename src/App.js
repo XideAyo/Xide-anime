@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React for free
+          Learn React for $500
         </a>
       </header>
     </div>
